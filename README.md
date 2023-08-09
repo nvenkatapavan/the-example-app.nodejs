@@ -1,4 +1,4 @@
-> **Note**: This repo is no longer officially maintained as of Jan, 2023.
+> **Note**: This repo is no longer officially maintained as of Jan, 2023. 
 > Feel free to use it, fork it and patch it for your own needs.
 
 ## The node.js example app
